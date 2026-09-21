@@ -76,7 +76,7 @@ body {
   background-color: #12111f;
 }
 main {
-  padding: 80px 12px;
+  padding: 72px 12px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -91,7 +91,7 @@ main {
 .faq-heading img {
   display: block;
   width: 820px;
-  /* height: 295px; */
+  
 }
 
 .title {
