@@ -91,7 +91,7 @@ main {
 .faq-heading img {
   display: block;
   width: 820px;
-  height: 295px;
+  /* height: 295px; */
 }
 
 .title {
